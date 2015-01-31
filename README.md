@@ -1,3 +1,3 @@
-# UI Component Glossary
+# UI Component Catalog
 
-A glossary of user interface components.
+Catalog of user interface components.
